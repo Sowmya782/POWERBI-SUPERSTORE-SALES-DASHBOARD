@@ -14,7 +14,7 @@
 
 ## Dataset Used
 
-- Sample Superstore Dataset
+<a href  ="https://github.com/Sowmya782/POWERBI-SUPERSTORE-SALES-DASHBOARD/blob/main/Superstore%20sales%20powerbi%20project.pbix">Sample Superstore Dataset</a> 
 
 ---
 
