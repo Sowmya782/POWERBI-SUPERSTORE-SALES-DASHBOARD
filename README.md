@@ -40,7 +40,7 @@
 
 ## Dashboard
 
-<a href =""></a>Power BI Dashboard created using the Sample Superstore dataset.
+<a href ="https://github.com/Sowmya782/POWERBI-SUPERSTORE-SALES-DASHBOARD/blob/main/SUPERSTORE%20DASHBORD.png">Power BI Dashboard created using the Sample Superstore</a> 
 
 ---
 
